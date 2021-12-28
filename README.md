@@ -15,7 +15,7 @@ Anyways, gtg. Sleep is awaiting me.
 
 ## My GigHub stats, Don't judge MKAYY?
 <a href="">
-  <img align="center" src="https://github.com/iiAlanii/iiAlanii/blob/main/README.md/api?username=iiAlanii&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="iiAlanii's GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=iiAlanii&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="iiAlanii's GitHub Stats" />
 </a>
 
 <a href="https://github.com/iiAlanii">
