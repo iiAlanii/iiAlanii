@@ -1,19 +1,23 @@
   
  ```console
-Yo yoy yo what's good? I'm Mirko, your lazy JavaScript programmer with no life except code and sleep. 
-Though I do emjoy playing some games, I most... talk with people? Is that even a thing? Talking?
-Anyways, My Discord name is [ Mirko#5255 ]. Gimmi a Dm if u are interested in a Discord Bot!
-Anyways, gtg. Sleep is awaiting me.
+ Hey 👋
+ How's it going. I'm Mirko. I am a young man that has experience in HTML5(html, css and js), and Javascript.
+ I sometimes now program Discord bots for the fun of it. My latest Discord bot, is a verified bot named KOPED - A semi-multipurpose Discord Bot.
+ My other bots are Grooves Music 1 and Grooves Music 2 which didn't get approved my Discord.
+ If you're interested, I could do private jobs for Discord Bots. Hit me up on my Discord [ Mirko#5255 ] and I'll see what i can do.
+ 
+ Maybe one day I would have the energy to explore and learn more langauges and build bigger programs for the world to see.
 ```
   
   ## My Discord JS Projects
 
 ```console
-  Currently, I am working on a bot that I am not so proud of but it's also a lot of work to complete. I am not lazy mkay?
-  I have Grooves Music but thanks to Discord, tehy declined verifying it and now am stuck on making that painful bot...
+I only have 3 Discord bots. (Only one of them being in service). That is KOPED. Like I mentioned above it is a semi-multipurpose bot.
+Grooves Music 1 and 2 were both music bot (as the name suggests.) Though Grooves Music 2 being slightly faster then 1 because of how different the bot was made.
+Maybe I'll work on a different Discord bot later.
 ```
 
-## My GigHub stats, Don't judge MKAYY?
+## GitHub Stats (inaccurate because I have private repos.)
 <a href="">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=iiAlanii&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="iiAlanii's GitHub Stats" />
 </a>
