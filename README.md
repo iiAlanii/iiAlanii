@@ -38,6 +38,3 @@ Currently, my main project is KOPED, a semi-multipurpose bot that is currently b
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=iiAlanii&theme=dark" alt="iiAlanii's Commit Streak" />
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iiAlanii&hide=java,tex&title_color=2bbc8a&text_color=ffffff&icon_color=2bbc8a&bg_color=1a1b1f&langs_count=3" alt="iiAlanii's Top Languages" />
-
-[![Discord Presence](https://lanyard.cnrad.dev/api/417237496007753738)](https://discord.com/users/417237496007753738)
-</div>
